@@ -1,0 +1,4 @@
+#!/bin/bash
+
+curl -L -o /srv/conda/bin/Cycles https://github.com/mintproject/MINT-WorkflowDomain/blob/master/DockerImages/cycles/v0.10.2-alpha/Cycles?raw=true
+chmod +x /srv/conda/bin/Cycles
